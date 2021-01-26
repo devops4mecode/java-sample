@@ -1,1 +1,1 @@
-# This repo is a sample Java Apps with Jenkins setup
+# This repo is a sample Java Apps with Jenkins setup(maven build)
